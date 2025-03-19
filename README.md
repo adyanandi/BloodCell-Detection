@@ -5,7 +5,7 @@ This web application utilizes state-of-the-art object detection (YOLOv8) to iden
 
 ## Demo
 
-![Blood Cell Detection Demo](https://i.imgur.com/2UeOnvG.gif)
+![Blood Cell Detection Demo](https://imgur.com/569MzBm.gif)
 
 
 
