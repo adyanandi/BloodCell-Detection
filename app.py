@@ -8,7 +8,7 @@ import os
 import matplotlib.pyplot as plt
 
 # Path to your locally saved model (in the Downloads folder)
-model_path = os.path.expanduser("~/Downloads/best.pt")  # Use your local path
+model_path = os.path.join(os.path.dirname(__file__), 'best.pt') # Use your local path
 
 
 model = YOLO(model_path)
